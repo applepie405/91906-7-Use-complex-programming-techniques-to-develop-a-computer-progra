@@ -1,0 +1,45 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+    font-size: 80px;
+}
+
+p {
+    color: black;
+  font-family: verdana;
+    text-align: center;
+    display: block;
+}
+
+h2 {
+  text-align: center;
+}
+
+mark {
+  background-color: white;
+  color: dodgerblue;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+nav {
+    text-align: center;
+}
+
+nav {
+  display: block;
+}
+
+footer {
+    border: 8px solid black;
+    background-color: white;
+    width: auto;
+}
